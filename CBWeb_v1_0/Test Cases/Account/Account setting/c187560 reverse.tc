@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.先確認舊名稱
+2.修改成新名稱
+3.再確認新名稱
+4.改回舊名稱
+5.確認舊名稱</description>
+   <name>c187560 reverse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dac778ac-8a48-4118-a9bf-ae098763bca9</testCaseGuid>
+</TestCaseEntity>
