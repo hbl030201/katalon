@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Account settings_PW_change_Confirm new PW input</name>
+   <tag></tag>
+   <elementGuidId>93dc1ff5-34bc-476a-a6e7-4bdc19d8c82f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='password'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#confirmNewPassword</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6a7f1d39-ca09-4870-89ec-ac323e34a179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input _basic bpx6</value>
+      <webElementGuid>b37e93b0-6c3e-4ec4-88a8-ec1df4e716be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>e72dd547-abd6-46fd-850a-21ec881a563b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Confirm new password*</value>
+      <webElementGuid>c4313dc9-b475-4152-b2be-2cf173456f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;settings&quot;]/div[@class=&quot;settings_content&quot;]/section[@class=&quot;settings_inner&quot;]/div[@class=&quot;settings_innerContent active&quot;]/div[@class=&quot;modal-mask&quot;]/div[@class=&quot;swal2-popup&quot;]/div[1]/div[@class=&quot;swal2-content TS-content&quot;]/div[@class=&quot;swal2-html-container&quot;]/div[@class=&quot;fieldset&quot;]/input[@class=&quot;input _basic bpx6&quot;]</value>
+      <webElementGuid>5ecd38a9-a914-4fba-95be-a06c4b2249f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='password'])[6]</value>
+      <webElementGuid>b56a60c9-ccd8-4624-80d9-cd9b09f0369f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/section/div/div/div/div/div[2]/div/div[3]/input</value>
+      <webElementGuid>a99136d8-ed60-44af-92d0-184226c76fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div[2]/div/div[3]/input</value>
+      <webElementGuid>389bbd69-7320-4e85-a812-6839abaed8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @placeholder = 'Confirm new password*']</value>
+      <webElementGuid>01adddc3-e58f-4485-8306-170dc1147455</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

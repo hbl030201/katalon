@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Account settings_PW_change_text</name>
+   <tag></tag>
+   <elementGuidId>42f9ba2e-b35f-4408-beb7-9bac93bf2c6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[2]/div[2]/div/section/div[1]/div/div[2]/div[3]/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>##root > div.content > div.settings > div > section > div.settings_innerContent.active > div > div.settings_account-content > div:nth-child(3) > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b724f407-6f96-4143-bd9c-8ed9418ae41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input _basic bpx6</value>
+      <webElementGuid>ea771e9f-93cf-471f-9f9a-caa932f3fdf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>e214a89d-170f-4f03-b674-bdfda5ba9445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Confirm new password*</value>
+      <webElementGuid>84924ca9-9329-4c89-a395-402bb7f1e123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;settings&quot;]/div[@class=&quot;settings_content&quot;]/section[@class=&quot;settings_inner&quot;]/div[@class=&quot;settings_innerContent active&quot;]/div[@class=&quot;modal-mask&quot;]/div[@class=&quot;swal2-popup&quot;]/div[1]/div[@class=&quot;swal2-content TS-content&quot;]/div[@class=&quot;swal2-html-container&quot;]/div[@class=&quot;fieldset&quot;]/input[@class=&quot;input _basic bpx6&quot;]</value>
+      <webElementGuid>1ea651c6-d50e-4379-bab4-116ef1f336ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='password'])[6]</value>
+      <webElementGuid>47e5795e-2e2e-4966-afb7-55ccd85b6968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/section/div/div/div/div/div[2]/div/div[3]/input</value>
+      <webElementGuid>58fb86fb-f042-42a6-8b9b-6641ff3f54ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div[2]/div/div[3]/input</value>
+      <webElementGuid>ce50dcf0-c9a1-4fda-bc43-d926dc20acfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @placeholder = 'Confirm new password*']</value>
+      <webElementGuid>9837c79e-4365-4b8f-b162-8be273af122e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

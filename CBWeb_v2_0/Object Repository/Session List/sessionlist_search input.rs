@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sessionlist_search input</name>
+   <tag></tag>
+   <elementGuidId>14ad3467-1857-427f-b838-b4bd244b8633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[2]/div[1]/div/div[1]/div[1]/div[3]/div/input
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#root > div.content > div.initSession > div > div.initSession_top > div.initSession_control._padHidden > div.initSession_control-block._search > div > input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9b2bd092-fb27-486b-bed9-dd1aad0a36b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input _search initSession_search</value>
+      <webElementGuid>b45a0fb5-e839-4a78-9a3d-ca7b525c5f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d184afc8-5d32-4c92-83b9-266e14ccc531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>a44478a0-216a-4876-94ff-2ceafd6b1694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;initSession&quot;]/div[@class=&quot;initSession_topWrap&quot;]/div[@class=&quot;initSession_top&quot;]/div[@class=&quot;initSession_control _padHidden&quot;]/div[@class=&quot;initSession_control-block _search&quot;]/div[@class=&quot;fieldset&quot;]/input[@class=&quot;input _search initSession_search&quot;]</value>
+      <webElementGuid>7f3fda55-cc38-4fe4-82b5-66d55d036086</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>96867ca2-8d7f-4f3a-88df-e0671ebe98c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div/div[3]/div/input</value>
+      <webElementGuid>2302a8d9-5e58-4e1e-ad82-9ad61de7e7fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>3d7d4132-90a1-43c9-95ea-51307f1ed487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search']</value>
+      <webElementGuid>5e40eb64-88b9-4c92-bf75-94eb8ed619dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
